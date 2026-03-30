@@ -1,13 +1,13 @@
-# A vintage style theme
-# Creater: Anup - @surendrananup updated and adapted to HACS by @Banditen01
-vintage:
-
-# Var:
+# A vintage style theme (mod)
+# Creator: Anup - @surendrananup updated and adapted to HACS by @Banditen01
+# Modifications for readability: asia_lena
+vintage_mod:
+  # Var:
   primary-font-family: "Lucida Console"
   turmeric-color: "#DEB853"
-  light-turmeric-color: "#E2D9A2"
+  light-turmeric-color: "#F3F9E2"
   slate-color: "#0A373A"
-  light-slate-color: "#789F8A"
+  light-slate-color: "#86C4AF"
   maroon-color: "#862715"
   text-color: "#fafcfb"
 
@@ -79,7 +79,6 @@ vintage:
   paper-item-icon-color: "var(--slate-color)"
   paper-item-icon_-_color: "var(--slate-color)"
   paper-item-icon-active-color: "var(--maroon-color)"
-
 
   # Unsure were to put
   paper-item-selected_-_background-color: "var(--light-turmeric-color)"
